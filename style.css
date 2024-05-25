@@ -53,10 +53,11 @@ body {
             border-radius: 5px;
             color: white;
             border: 0;
-          
+            margin-top: 10px;
             padding: 15px 35px;
            font-size: 18px;
            font-weight: 600;
+           margin-bottom: 50px;
   }
 
   .header {
@@ -186,3 +187,31 @@ body {
     text-align: center;
     margin-top: 50px;
   }
+/* footer styles */
+  .contact-container {
+    background-color: #FFF8F3;
+    display: flex;
+    gap:90px;
+    padding: 50px;
+   
+
+
+  }
+ 
+
+  .contact-title {
+    color:#474747;
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  .contact-description {
+    color:#757575;
+    max-width: 562px;
+
+   
+    
+  }
+
+
+

@@ -95,6 +95,7 @@ body {
    }
   .btn-primary {
     margin-top: 30px;
+
   }
 
   /* main-section style*/
@@ -161,5 +162,27 @@ body {
 
   .resume-container {
     display: flex;
- 
+     gap:50px;
+  }
+
+  .resume-item-institute, .resume-item-description {
+    color:#757575;
+
+  }
+
+  .resume-item-title {
+    color:#474747;
+    font-style: normal;
+    font-weight: 700;
+
+  }
+
+  .resume-container hr {
+    margin:30px 30px;
+
+  }
+
+  .download-cv {
+    text-align: center;
+    margin-top: 50px;
   }
